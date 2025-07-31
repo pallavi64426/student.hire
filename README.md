@@ -1,11 +1,11 @@
 # 🚀 StudentHire 
 
-This is a **Next.js starter project** 
+This is a **Next.js  project** 
 
 ---
 
 📝 About the App
-StudentHire is a mobile-first web app built to connect college students with local part-time job opportunities — inspired by the simplicity of apps like Uber/Ola, but for gigs instead of rides.
+StudentHire is  built to connect college students with local part-time job opportunities — inspired by the simplicity of apps like Uber/Ola, but for gigs instead of rides.
 
 🎯 Purpose
 To empower students by helping them:
